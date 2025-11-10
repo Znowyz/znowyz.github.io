@@ -1,5 +1,4 @@
-title: Proyectos de Cómic - Dani
-description: Ilustrador profesional con experiencia en cómic y diseño de personajes.
-baseurl: ""         # Déjalo vacío para sitio usuario.github.io
-url: "https://danifromdani.github.io"
+title: znowyz
+description: Sitio personal con Jekyll y GitHub Pages
+author: znowyz
 theme: minima
